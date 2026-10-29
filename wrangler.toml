@@ -10,7 +10,7 @@ routes = [
 # KV：面板配置存储
 [[kv_namespaces]]
 binding = "KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "d5e122c23db54c36804bbed01a40c94c"
 
 [vars]
 # UUID 节点认证：部署时生成一次写入（非机密但应稳定）
